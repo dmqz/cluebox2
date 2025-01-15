@@ -1,0 +1,51 @@
+{
+    "rooms": {
+        "room_1": {
+            "gpio_pin": 17,
+            "clues": [
+                {
+                    "sound": "sample1.wav",
+                    "text": "Sometimes you must go where other people have gone. You have a crappy job ahead of you!"
+                },
+                {
+                    "sound": "sample2.wav",
+                    "text": "This is just a test to see if the text shows up."
+                },
+                {
+                    "sound": "sample3.wav",
+                    "text": "The next clue is hidden in plain sight, look around carefully."
+                },
+                {
+                    "sound": "sample2.wav",
+                    "text": "Trying to see if anything changes."
+                }
+            ]
+        },
+        "room_2": {
+            "gpio_pin": 22,
+            "clues": [
+                {
+                    "sound": "sample2.wav",
+                    "text": "Clue for Room 2, here!"
+                },
+                {
+                    "sound": "sample3.wav",
+                    "text": "Next clue for Room 2."
+                }
+            ]
+        },
+        "room_3": {
+            "gpio_pin": 27,
+            "clues": [
+                {
+                    "sound": "sample3.wav",
+                    "text": "Clue for Room 3, starting!"
+                },
+                {
+                    "sound": "sample1.wav",
+                    "text": "This is the second clue for Room 3."
+                }
+            ]
+        }
+    }
+}
